@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Elevator-04" width="193.154" height="31" viewBox="0 0 193.154 31">
+    <defs>
+        <style>
+            .cls-1{fill:url(#linear-gradient)}.cls-2{fill:url(#linear-gradient-2)}.cls-3{fill:url(#linear-gradient-3)}.cls-4{fill:url(#linear-gradient-4)}.cls-5{fill:url(#linear-gradient-5)}.cls-6{fill:url(#linear-gradient-6)}.cls-7{fill:url(#linear-gradient-7)}.cls-8{fill:url(#linear-gradient-8)}.cls-9{fill:url(#linear-gradient-9)}.cls-10{fill:url(#linear-gradient-10)}
+        </style>
+        <linearGradient id="linear-gradient" x1="-.104" x2="7.733" y1=".23" y2="3.73" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ef756f"/>
+            <stop offset="1" stop-color="#f05f6f"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1=".027" x2="7.864" y1=".289" y2="3.789" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-3" x1=".158" x2="7.995" y1=".347" y2="3.847" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-4" x1="-4.188" x2="21.936" y1=".355" y2="1.163" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-5" x1="-2.793" x2="3.738" y1=".113" y2=".921" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-6" x1="-1.969" x2="4.562" y1=".174" y2=".982" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-7" x1="-3.934" x2="3.19" y1="-.023" y2=".784" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-8" x1="-4.124" x2="1.905" y1="-.12" y2=".688" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-9" x1="-6.853" x2="1.083" y1="-.225" y2=".583" xlink:href="#linear-gradient"/>
+        <linearGradient id="linear-gradient-10" x1="-1.871" x2="6.837" y1=".301" y2="1.108" xlink:href="#linear-gradient"/>
+    </defs>
+    <path id="Rectangle_18" d="M0 0h23.846v7.154H0z" class="cls-1" data-name="Rectangle 18" transform="translate(9.538)"/>
+    <path id="Rectangle_19" d="M0 0h23.846v7.154H0z" class="cls-2" data-name="Rectangle 19" transform="translate(4.769 11.923)"/>
+    <path id="Rectangle_20" d="M0 0h23.846v7.154H0z" class="cls-3" data-name="Rectangle 20" transform="translate(0 23.846)"/>
+    <path id="Rectangle_21" d="M0 0h7.154v31H0z" class="cls-4" data-name="Rectangle 21" transform="translate(35.769)"/>
+    <path id="Path_644" d="M307.692 0h-7.154L291 31h7.154l7.154-23.25L312.462 31h7.154l-9.539-31z" class="cls-5" data-name="Path 644" transform="translate(-204.26)"/>
+    <path id="Path_645" d="M232.462 0l-7.154 23.25L218.154 0H211l9.538 31h9.538l9.538-31z" class="cls-6" data-name="Path 645" transform="translate(-148.106)"/>
+    <path id="Path_646" d="M394.846 7.154L397.231 0H371l2.385 7.154h7.154V31h7.154V7.154z" class="cls-7" data-name="Path 646" transform="translate(-260.413)"/>
+    <path id="Path_647" d="M470.5 0A15.5 15.5 0 1 0 486 15.5 15.5 15.5 0 0 0 470.5 0zm0 23.846a8.346 8.346 0 1 1 8.346-8.346 8.346 8.346 0 0 1-8.346 8.346z" class="cls-8" data-name="Path 647" transform="translate(-319.375)"/>
+    <path id="Path_648" d="M590.462 9.538A9.538 9.538 0 0 0 580.923 0H569v31h7.154V19.077h2.385L585.394 31h7.154l-7.193-13.017a9.538 9.538 0 0 0 5.106-8.445zm-14.308-2.384h4.769a2.385 2.385 0 0 1 0 4.769h-4.769z" class="cls-9" data-name="Path 648" transform="translate(-399.394)"/>
+    <path id="Path_649" d="M162.154 23.846v-4.769h10.638l-2.2-7.154h-8.439V7.154h6.969L166.923 0H155v31h21.462l-2.2-7.154z" class="cls-10" data-name="Path 649" transform="translate(-108.798)"/>
+</svg>
